@@ -19,7 +19,7 @@ guardes.
 > **Importante:** si olvidas la frase, nadie puede recuperar tus datos, ni nosotros. Apúntala en un
 > lugar seguro (un gestor de contraseñas, por ejemplo).
 
-¿Ya usas Gestorín en otro dispositivo? Elige **«Ya lo uso en otro sitio»** y pon la dirección de tu
+¿Ya usas Gestorín en otro dispositivo? Elige **«Ya lo uso en otro dispositivo»** y pon la dirección de tu
 servidor, el token y tu frase (ver [Privacidad y copias](08-privacidad-y-copias.md)).
 
 ## ¿Quién lee tus documentos?
