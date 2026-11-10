@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Gestorín</title>
+  <desc id="d">Tu papeleo, en orden: qué es, cuánto pagas y para cuándo.</desc>
+  <rect width="1200" height="300" fill="#f0f0ed"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#d3d3ce"/>
+  <rect x="0" y="0" width="6" height="300" fill="#1f4a3c"/>
+  <g transform="translate(88 92) scale(4.6)" fill="none" stroke="#1f4a3c" stroke-width="1.6" stroke-linejoin="round">
+    <path d="M3 6.5V18a1.5 1.5 0 0 0 1.5 1.5h15A1.5 1.5 0 0 0 21 18V9a1.5 1.5 0 0 0-1.5-1.5H11L9 5H4.5A1.5 1.5 0 0 0 3 6.5z"/>
+    <path d="M7 13h10M7 16h6" stroke-linecap="round"/>
+  </g>
+  <g font-family="'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="232" y="148" font-size="72" font-weight="600" fill="#1a1c1e" letter-spacing="-1">Gestorín</text>
+    <text x="234" y="196" font-size="26" fill="#5c6066">Tu papeleo, en orden: qué es, cuánto pagas y para cuándo.</text>
+    <g font-size="17" font-weight="600" fill="#1f4a3c">
+      <text x="234" y="244">IDENTIDAD · VEHÍCULO · HOGAR · SALUD · HACIENDA</text>
+    </g>
+  </g>
+  <g transform="translate(900 70)" font-family="'Source Sans 3', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <rect width="232" height="160" rx="8" fill="#ffffff" stroke="#d3d3ce"/>
+    <text x="20" y="34" font-size="15" font-weight="600" fill="#1a1c1e">Vence pronto</text>
+    <line x1="0" y1="50" x2="232" y2="50" stroke="#d3d3ce"/>
+    <text x="20" y="92" font-size="38" font-weight="600" fill="#a3271b">2</text>
+    <text x="22" y="110" font-size="12" fill="#5c6066">días</text>
+    <text x="64" y="80" font-size="14" font-weight="600" fill="#1a1c1e">Pago con 50 % de</text>
+    <text x="64" y="98" font-size="14" font-weight="600" fill="#1a1c1e">descuento</text>
+    <text x="64" y="118" font-size="12" fill="#5c6066">Multa · 45,00 €</text>
+    <line x1="0" y1="130" x2="232" y2="130" stroke="#d3d3ce"/>
+    <text x="20" y="151" font-size="12" fill="#7a5200">Próxima ITV en 96 días</text>
+  </g>
+</svg>
