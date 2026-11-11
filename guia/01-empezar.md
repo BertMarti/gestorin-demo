@@ -34,7 +34,22 @@ Si no tienes Ollama, también puedes añadir **Gemini con tu clave de pago** o *
 pregunta antes de enviar cada documento. Gemini gratis, NVIDIA y OpenRouter `:free` no se ofrecen: sus
 condiciones no lo permiten ([por qué](../legal/proveedores.md)).
 
-Puedes cambiarlo cuando quieras en **Ajustes**.
+Si en la bienvenida no hay un lector en tu ordenador (en el móvil, casi siempre), Gestorín propone
+**Sin IA**, para que tu primera carta se lea en vez de fallar. Puedes cambiarlo cuando quieras en
+**Ajustes**.
+
+**Ajustes**, de arriba abajo:
+1. Familia.
+2. Avisos.
+3. Quién lee tus documentos.
+4. Copia de seguridad.
+5. Tu comunidad.
+6. Resumen de gastos.
+7. Actualizaciones.
+8. Ayuda y seguridad.
+
+Lo técnico está al final, en **Opciones avanzadas**: sincronizar con tu propio servidor, pasar los
+ajustes a otro móvil, vigilar la carpeta de descargas e informar de un problema.
 
 ## El recorrido
 
