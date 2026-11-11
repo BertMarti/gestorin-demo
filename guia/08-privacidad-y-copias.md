@@ -6,9 +6,10 @@
 
 - **Todo se guarda cifrado** con tu frase. Sin ella, nadie puede leerlo.
 - **Gratis en tu equipo (Ollama)** y **Sin IA**: nada sale de casa.
-- **Gratis en la nube**: Gestorín **pregunta cada vez**, documento a documento, antes de enviar nada.
-  Estos servicios pueden usar lo que envías para mejorar sus modelos. Avisa especialmente si parece un
-  informe médico o un documento de identidad.
+- **Servicios de internet** (Gemini con tu clave de pago, Groq): Gestorín **pregunta cada vez**,
+  documento a documento, antes de enviar nada. Se procesa fuera de la UE. Avisa especialmente si parece
+  un informe médico o un documento de identidad. Qué permite cada uno:
+  [proveedores](../legal/proveedores.md).
 - **Claude** (de pago): el documento se procesa fuera de la UE. Anthropic no entrena con los datos de
   su API por defecto.
 - Sin anuncios, sin analíticas, sin cuentas.

@@ -26,9 +26,13 @@ servidor, el token y tu frase (ver [Privacidad y copias](08-privacidad-y-copias.
 
 | Opción | Cómo funciona | Para quién |
 |---|---|---|
-| **Gratis** (recomendada) | Un modelo de IA en tu propio equipo (Ollama). Si no lo tienes, un servicio gratuito en la nube, y Gestorín te pregunta antes de enviar cada documento | La mayoría |
-| **Claude** (de pago) | La lectura más fiable; cada documento cuesta unos céntimos | Si quieres la máxima precisión |
-| **Sin IA** | Lee el texto en tu dispositivo y saca fechas e importes. No explica el documento | Si no quieres usar ninguna IA |
+| **Gratis, en tu ordenador** (recomendada) | Un modelo de IA en tu propio equipo o en otro de tu casa (Ollama). Nada sale de casa | La mayoría |
+| **Sin IA** | Lee el texto en tu dispositivo y saca fechas e importes. No explica el documento | Si no tienes Ollama o no quieres usar ninguna IA |
+| **Claude** (de pago) | La lectura más fiable; cada documento cuesta unos céntimos, con tu clave | Si quieres la máxima precisión |
+
+Si no tienes Ollama, también puedes añadir **Gemini con tu clave de pago** o **Groq**. Gestorín te
+pregunta antes de enviar cada documento. Gemini gratis, NVIDIA y OpenRouter `:free` no se ofrecen: sus
+condiciones no lo permiten ([por qué](../legal/proveedores.md)).
 
 Puedes cambiarlo cuando quieras en **Ajustes**.
 
