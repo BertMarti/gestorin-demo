@@ -11,13 +11,16 @@ antes de cada plazo. Esta guía lo explica paso a paso y en sencillo.
 ## Índice
 
 1. [Empezar](01-empezar.md): instalar, crear tu archivo y elegir quién lee tus documentos.
-2. [Añadir papeles](02-anadir.md): fotos, PDF, correos o apuntar a mano.
-3. [Plazos y avisos](03-plazos-y-avisos.md): lo que vence pronto, el calendario y el widget.
+2. [Añadir papeles](02-anadir.md): fotos, PDF, correos, apuntar a mano y cartas en catalán, gallego o
+   euskera.
+3. [Plazos y avisos](03-plazos-y-avisos.md): la bandeja «Por hacer», el resumen de gastos del año, el
+   calendario y el widget.
 4. [Identidad](04-identidad.md): DNI, permiso de conducir y qué tiene validez legal.
 5. [Trámites](05-tramites.md): la web oficial, las alegaciones y el dossier PDF.
 6. [Familia](06-familia.md): los papeles de tu pareja, tus hijos o tus padres.
-7. [Buscar y preguntar](07-buscar-y-preguntar.md).
-8. [Privacidad y copias](08-privacidad-y-copias.md): qué sale de tu equipo y cómo no perder nada.
+7. [Buscar y preguntar](07-buscar-y-preguntar.md), y la paleta de comandos con los atajos del teclado.
+8. [Privacidad y copias](08-privacidad-y-copias.md): qué sale de tu equipo, cómo no perder nada y
+   cómo informar de un problema.
 9. [Preguntas frecuentes](09-preguntas.md).
 
 ## Modelos y su función

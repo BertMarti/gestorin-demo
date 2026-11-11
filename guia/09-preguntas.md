@@ -26,8 +26,21 @@ Gestorín es gratis. Solo pagas si eliges Claude: unos céntimos por documento.
 **Windows no me deja instalarlo.**
 Ver [«Si Windows no te deja instalarlo»](https://github.com/BertMarti/gestorin#si-windows-no-te-deja-instalarlo).
 
+**Tenía Gestorín en Android y la versión nueva no se instala.**
+Desde la 2.22.1, el APK está firmado con la clave de Gestorín, y las versiones anteriores llevaban una
+clave de pruebas. Android no deja instalar una encima de la otra. Haz esto una sola vez:
+
+1. Guarda una copia en **Ajustes → Copia de seguridad**.
+2. Desinstala la versión anterior. Al desinstalar se borra su archivo.
+3. Instala la nueva y restaura la copia.
+
+**¿Por qué Windows sigue en la 2.21.0?**
+Las versiones nuevas se compilan en el PC de desarrollo y, este mes, el instalador de Windows aún no
+se puede generar ahí. La 2.21.0 sigue siendo la versión recomendada para Windows.
+
 **Uso un lector de pantalla.**
 Gestorín se puede usar entero con el teclado (**Tab**, **Enter**, **Esc**; «Ir al contenido» salta el
-menú) y anuncia los avisos y los resultados de búsqueda. En Windows, **?** muestra los atajos.
+menú) y anuncia los avisos y los resultados de búsqueda. En Windows, **?** muestra los atajos y
+**Ctrl+K** abre la paleta de comandos.
 
 [← Privacidad y copias](08-privacidad-y-copias.md) · [Índice](README.md)

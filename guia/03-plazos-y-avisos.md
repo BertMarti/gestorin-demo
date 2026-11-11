@@ -2,15 +2,19 @@
 
 [← Índice](README.md)
 
-## Lo que vence pronto
+## Por hacer
 
-En **Inicio** ves los plazos de los próximos 30 días, empezando por el más cercano. En rojo, lo
-**urgente** (3 días o menos).
+En **Inicio**, la bandeja **Por hacer** convierte cada plazo de los próximos 30 días en una tarea
+concreta: *«Pagar antes del 28 nov»*, *«Presentar alegación antes del…»*, *«Pedir cita ITV…»*, *«Ir a
+la cita el…»*. La más urgente va primero. En rojo, lo **urgente** (3 días o menos).
 
-<p align="center"><img src="img/escritorio-inicio.jpg" alt="Inicio con lo que vence pronto y los apartados" width="640"></p>
+- Cuando la hagas, pulsa el **✓** de su izquierda. Si te equivocas, **Deshacer** en el aviso.
+- Toca la tarea para abrir su ficha.
+- **Hechas** guarda lo que has ido completando y cuándo. Desde ahí puedes **Reabrir** una tarea.
 
-En una ficha, cuando hayas hecho algo (pagar, presentar…), pulsa **Marcar hecho**. Si te equivocas,
-**Deshacer**.
+<p align="center"><img src="img/escritorio-inicio.jpg" alt="Inicio con la bandeja Por hacer y los apartados" width="640"></p>
+
+En una ficha también puedes marcar cada plazo con **Marcar hecho**.
 
 ## Avisos
 
@@ -27,6 +31,21 @@ Junto a cada plazo hay un botón de calendario: guarda un archivo `.ics` que abr
 Calendar, Outlook o el calendario del móvil. **Añadir todos** guarda los de la ficha.
 
 > Los plazos de **Salud** llegan al calendario sin nada médico: solo «Plazo de salud».
+
+## Resumen de gastos del año
+
+En **Ajustes → Resumen de gastos**, elige el año y guarda lo que suman las fichas con importe, por
+categoría: multas, impuestos municipales (IBI, impuesto de circulación…), Hacienda, Seguridad Social,
+seguros, suministros y otros.
+
+- **PDF para imprimir**: totales por categoría y el detalle de cada ficha.
+- **CSV para la hoja de cálculo**: se abre directamente en Excel o LibreOffice, con las tildes y los
+  céntimos bien.
+
+Cada gasto cuenta en el año de su plazo de pago o, si no tiene, en el año en que añadiste la ficha. Son
+los importes que constan en las fichas: compruébalos con tus justificantes.
+
+<p align="center"><img src="img/escritorio-gastos.jpg" alt="Resumen de gastos del año en Ajustes" width="640"></p>
 
 ## Calendario del año
 
