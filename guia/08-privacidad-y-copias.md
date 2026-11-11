@@ -14,6 +14,17 @@
   su API por defecto.
 - Sin anuncios, sin analíticas, sin cuentas.
 
+## Compartir con la familia
+
+**Ajustes → Compartir con la familia** crea un código, y su QR, con quién lee tus documentos y la
+dirección de tu Ollama o del proxy de tu homelab. Va cifrado con una contraseña de al menos 12
+caracteres: dásela aparte. Las claves de API solo van si marcas «Incluir las claves de API». Nunca
+lleva documentos, tu frase ni el token de sincronización.
+
+Quien lo recibe escanea el QR con la cámara, copia el texto, lo pega en **Usar un código que te han
+pasado**, revisa qué trae y pulsa **Aplicar a mis ajustes**. Cómo montar un Ollama para toda la casa:
+[HOMELAB.md](../HOMELAB.md#ollama-para-toda-la-familia).
+
 ## Copia de seguridad
 
 **Ajustes → Copia de seguridad**:
