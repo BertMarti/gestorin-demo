@@ -29,9 +29,9 @@ pierden igual.
 
 <p align="center"><img src="img/movil-alegaciones.jpg" alt="Borrador de alegaciones en el móvil" width="280"></p>
 
-## Dossier PDF
+## Todo en un PDF
 
-En cualquier ficha con plazos, **Dossier PDF** junta en un solo archivo la ficha (qué es, importe,
+En cualquier ficha con originales, **Guardar todo en un PDF** junta en un solo archivo la ficha (qué es, importe,
 plazos, pasos y notas), las fotos y los PDF originales. Útil para imprimir o mandar a una gestoría.
 
 [← Identidad](04-identidad.md) · [Siguiente: Familia →](06-familia.md)

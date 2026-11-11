@@ -33,8 +33,8 @@ Con tu propio servidor en casa (una Raspberry Pi, por ejemplo), Gestorín mantie
 iguales, siempre cifrado. Ver la [guía del homelab](https://github.com/BertMarti/gestorin/blob/main/docs/HOMELAB.md).
 
 **Si cambias la misma ficha en dos dispositivos sin conexión**, se queda la última edición y la otra no
-se pierde. En la ficha verás *«Se combinó con un cambio de otro dispositivo · Ver versión anterior»*:
-ahí ves qué cambiaría y eliges **Restaurar esta versión** o **Descartar**.
+se pierde. En la ficha verás *«Esta ficha también se cambió desde otro dispositivo… · Ver el otro
+cambio»*: ahí ves cómo quedaría y eliges **Usar el otro cambio** o **Quedarme con la actual**.
 
 <p align="center"><img src="img/escritorio-conflicto.jpg" alt="Aviso de una versión anterior en una ficha" width="640"></p>
 
