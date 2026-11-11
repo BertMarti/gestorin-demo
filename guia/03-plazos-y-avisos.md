@@ -45,18 +45,18 @@ Calendar, Outlook o el calendario del móvil. **Añadir todos** guarda los de la
 
 ## Resumen de gastos del año
 
-En **Ajustes → Resumen de gastos**, elige el año y guarda lo que suman las fichas con importe, por
+En **Hacienda y trabajo → Resumen de gastos**, elige el año y guarda lo que suman las fichas con importe, por
 categoría: multas, impuestos municipales (IBI, impuesto de circulación…), Hacienda, Seguridad Social,
 seguros, suministros y otros.
 
 - **PDF para imprimir**: totales por categoría y el detalle de cada ficha.
-- **CSV para la hoja de cálculo**: se abre directamente en Excel o LibreOffice, con las tildes y los
+- **Para Excel**: se abre directamente en Excel o LibreOffice, con las tildes y los
   céntimos bien.
 
 Cada gasto cuenta en el año de su plazo de pago o, si no tiene, en el año en que añadiste la ficha. Son
 los importes que constan en las fichas: compruébalos con tus justificantes.
 
-<p align="center"><img src="img/escritorio-gastos.jpg" alt="Resumen de gastos del año en Ajustes" width="640"></p>
+<p align="center"><img src="img/escritorio-gastos.jpg" alt="Resumen de gastos del año" width="640"></p>
 
 ## Calendario del año
 

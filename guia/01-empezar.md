@@ -44,9 +44,8 @@ Si en la bienvenida no hay un lector en tu ordenador (en el móvil, casi siempre
 3. Quién lee tus documentos.
 4. Copia de seguridad.
 5. Tu comunidad.
-6. Resumen de gastos.
-7. Actualizaciones.
-8. Ayuda y seguridad.
+6. Actualizaciones.
+7. Ayuda y seguridad.
 
 Lo técnico está al final, en **Opciones avanzadas**: sincronizar con tu propio servidor, pasar los
 ajustes a otro móvil, vigilar la carpeta de descargas e informar de un problema.

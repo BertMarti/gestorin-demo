@@ -14,8 +14,8 @@ Sin la frase no se pueden abrir tus datos, y nadie puede recuperarla. Si tienes 
 seguridad**, crea un archivo nuevo y restáurala con la contraseña de la copia.
 
 **La IA se ha equivocado con una fecha.**
-Abre la ficha, pulsa el lápiz y corrígela. Si el documento es importante, **Reanalizar con Claude**
-lo vuelve a leer con más precisión.
+Abre la ficha, pulsa el lápiz y corrígela. Si el documento es importante y tienes una clave de Claude,
+**Reanalizar con Claude** lo vuelve a leer con más precisión (sin clave, la ficha te lleva a Ajustes).
 
 **¿Funciona sin internet?**
 Sí, con Ollama en tu equipo o con «Sin IA». Los avisos funcionan siempre.
