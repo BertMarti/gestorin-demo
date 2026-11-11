@@ -8,12 +8,17 @@
     <!-- Precarga la fuente para que el texto no salte al cargar (CLS). -->
     <link rel="preload" as="font" type="font/woff2" crossorigin href="/gestorin-demo/assets/source-sans-3-latin-wght-normal-Bo_j9asI.woff2" />
     <title>Gestorín</title>
-    <script type="module" crossorigin src="/gestorin-demo/assets/index-CXy4sG5T.js"></script>
+    <!-- Primer pintado: papel y tinta del tema (claro u oscuro) y la marca mientras llega la app. -->
+    <style>html{color:#1a1c1e;background:#f2f0e9}.boot{place-items:center;min-height:100vh;font:600 1.125rem/1.2 "Source Sans 3 Variable",Segoe UI Variable Text,Segoe UI,Roboto,system-ui,sans-serif;display:grid}.boot-in{justify-items:center;gap:12px;display:grid}.boot svg{color:#1f4a3c}.boot-bar{background:#d6d2c7;border-radius:2px;width:112px;height:2px;overflow:hidden}.boot-bar i{background:#1f4a3c;width:40%;height:100%;animation:1.1s cubic-bezier(.2,.8,.2,1) infinite boot;display:block}@keyframes boot{0%{transform:translate(-100%)}to{transform:translate(280%)}}@media (prefers-color-scheme:dark){html{color:#e8e8e4;background:#141618}.boot svg{color:#7fc4a6}.boot-bar{background:#33383d}.boot-bar i{background:#7fc4a6}}@media (prefers-reduced-motion:reduce){.boot-bar i{opacity:.5;width:100%;animation:none}}</style>
+    <script type="module" crossorigin src="/gestorin-demo/assets/index-B6F-Xhmz.js"></script>
     <link rel="modulepreload" crossorigin href="/gestorin-demo/assets/rolldown-runtime-BCiCTKAo.js">
     <link rel="modulepreload" crossorigin href="/gestorin-demo/assets/jsx-runtime-BjLx7v8f.js">
-    <link rel="stylesheet" crossorigin href="/gestorin-demo/assets/index-iBEfrRPO.css">
+    <link rel="stylesheet" crossorigin href="/gestorin-demo/assets/index-BFJ_ry5W.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"><div class="boot" role="status" aria-label="Abriendo Gestorín"><div class="boot-in">
+      <svg width="32" height="32" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linejoin="round"><path d="M3 6.5V18a1.5 1.5 0 0 0 1.5 1.5h15A1.5 1.5 0 0 0 21 18V9a1.5 1.5 0 0 0-1.5-1.5H11L9 5H4.5A1.5 1.5 0 0 0 3 6.5z" /><path d="M7 13h10M7 16h6" stroke-linecap="round" /></svg>
+      <span>Gestorín</span><span class="boot-bar"><i></i></span>
+    </div></div></div>
   </body>
 </html>
