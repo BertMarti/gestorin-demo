@@ -21,6 +21,17 @@ En una ficha también puedes marcar cada plazo con **Marcar hecho**.
 Gestorín te avisa **7 días antes, 1 día antes y el mismo día**, a las 9:00. Puedes cambiarlo en
 **Ajustes → Avisos**.
 
+Algunos papeles tienen sus propios avisos, que también cambias en **Ajustes → Avisos → Por tipo de
+documento**:
+
+| Tipo | Avisos de fábrica |
+|---|---|
+| Multas | A los días 10 y 18 de los 20 del pronto pago, y el último día |
+| ITV | Un mes antes, una semana antes y el mismo día |
+| DNI y carnets | Tres meses antes, uno antes, una semana antes y el mismo día |
+
+Si un plazo concreto necesita otros días, cámbialos en su ficha: esos ganan a todo.
+
 - Los avisos **no dicen de qué se trata** («Vence un plazo mañana»), porque se ven con el móvil
   bloqueado.
 - En Windows, Gestorín vive junto al reloj y avisa aunque no lo tengas abierto.
