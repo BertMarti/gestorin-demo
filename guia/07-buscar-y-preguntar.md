@@ -38,6 +38,10 @@ Pulsa **?** para ver todos los atajos:
 | **Ctrl+L** | Bloquear |
 | **Ctrl+Z** | Deshacer lo último |
 | **E**, **H**, **Supr** | En una ficha: editar, marcar hecho el próximo plazo, borrar |
-| **Esc** | Volver o cerrar |
+| **Esc** | Volver o cerrar (con un aviso abierto, solo lo cierra) |
+
+Si usas un lector de pantalla o controlas el PC por voz, las teclas sueltas (**?**, **/**, **E**, **H**,
+**Supr**) pueden saltar sin querer: desactívalas en **Ajustes → Ayuda y seguridad → Atajos de una
+sola tecla**. Los de **Ctrl** siguen funcionando.
 
 [← Familia](06-familia.md) · [Siguiente: Privacidad y copias →](08-privacidad-y-copias.md)

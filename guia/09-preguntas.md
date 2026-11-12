@@ -39,8 +39,8 @@ Las versiones nuevas se compilan en el PC de desarrollo y, este mes, el instalad
 se puede generar ahí. La 2.21.0 sigue siendo la versión recomendada para Windows.
 
 **Uso un lector de pantalla.**
-Gestorín se puede usar entero con el teclado (**Tab**, **Enter**, **Esc**; «Ir al contenido» salta el
-menú) y anuncia los avisos y los resultados de búsqueda. En Windows, **?** muestra los atajos y
-**Ctrl+K** abre la paleta de comandos.
+Gestorín se puede usar entero con el teclado (**Tab**, **Enter**, **Esc**; «Ir al contenido» salta la
+cabecera) y anuncia los avisos y los resultados de búsqueda. En Windows, **?** muestra los atajos y
+**Ctrl+K** abre la paleta de comandos. Si las teclas sueltas te molestan, se apagan en Ajustes.
 
 [← Privacidad y copias](08-privacidad-y-copias.md) · [Índice](README.md)
