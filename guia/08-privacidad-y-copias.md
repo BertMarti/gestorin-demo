@@ -22,7 +22,8 @@ caracteres: dásela aparte. Tus claves de pago solo van si marcas «Incluir mis 
 lleva documentos, tu frase ni la clave de sincronización.
 
 Quien lo recibe escanea el QR con la cámara, copia el texto, lo pega en **Usar un código que te han
-pasado**, revisa qué trae y pulsa **Aplicar a mis ajustes**. Hasta que pulse **Probar conexión**, la app
+pasado**, escribe la contraseña y pulsa **Abrir el código**; revisa qué trae y pulsa **Aplicar a mis
+ajustes**. Hasta que pulse **Probar conexión**, la app
 le pregunta antes de enviar cada documento a esa dirección. Cómo montar un Ollama para toda la casa:
 [HOMELAB.md](../HOMELAB.md#ollama-para-toda-la-familia).
 
@@ -53,7 +54,7 @@ cambio»*: ahí ves cómo quedaría y eliges **Usar el otro cambio** o **Quedarm
 
 ## Informar de un problema
 
-Si algo falla, **Ajustes → Informar de un problema → Guardar informe** crea un `.zip` en tu equipo.
+Si algo falla, **Ajustes → Opciones avanzadas → Informar de un problema → Guardar informe** crea un `.zip` en tu equipo.
 Lleva la versión, el sistema y los últimos errores. Antes de guardarlo se limpia de DNI, NIE, IBAN,
 nombres, correos, teléfonos, claves y rutas. **No se envía a ningún sitio**: revísalo y adjúntalo tú
 si quieres.

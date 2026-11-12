@@ -4,7 +4,7 @@
 
 **¿Me puede multar un agente si le enseño la copia del carnet de Gestorín?**
 La copia de Gestorín no tiene validez legal. Enséñale el permiso en **miDGT** (Gestorín la abre con
-el botón «Abrir miDGT para mostrarlo») o el carnet físico.
+el botón «Abrir o instalar miDGT» en el móvil) o el carnet físico.
 
 **¿Gestorín paga mis multas o presenta trámites por mí?**
 No. Te lleva a la web oficial y allí te identificas tú. Así nadie más tiene tus claves.

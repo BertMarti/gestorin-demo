@@ -15,8 +15,9 @@ fecha de caducidad. Gestorín te avisa **90, 30 y 7 días antes** y el mismo dí
 | **DNI en la app MiDNI** | Es la app oficial de la Policía Nacional. Su alcance legal exacto está por verificar, y **no sirve para viajar** |
 | **La copia que guardas en Gestorín** | **No.** Es solo para tu control; siempre se muestra como «Copia sin validez legal» |
 
-Por eso, cada carnet tiene el botón **Abrir miDGT / Abrir MiDNI para mostrarlo**, que abre la app
-oficial (o te lleva a instalarla).
+Por eso, el DNI y el permiso tienen un botón que abre la app oficial o te lleva a instalarla: en el
+móvil, **«Abrir o instalar MiDNI»** y **«Abrir o instalar miDGT»**; en el ordenador, **«miDGT en Google
+Play (es para el móvil)»**.
 
 ## Renovar
 

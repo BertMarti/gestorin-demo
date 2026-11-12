@@ -20,7 +20,7 @@ guardes.
 > lugar seguro (un gestor de contraseñas, por ejemplo).
 
 ¿Ya usas Gestorín en otro dispositivo? Elige **«Ya lo uso en otro dispositivo»** y pon la dirección de tu
-servidor, el token y tu frase (ver [Privacidad y copias](08-privacidad-y-copias.md)).
+servidor, su clave y tu frase (ver [Privacidad y copias](08-privacidad-y-copias.md)).
 
 ## ¿Quién lee tus documentos?
 
@@ -53,7 +53,7 @@ ajustes a otro móvil, vigilar la carpeta de descargas e informar de un problema
 ## El recorrido
 
 Al terminar, un recorrido de seis pasos te enseña Inicio. Puedes saltarlo con **Esc** y repetirlo
-desde **Ajustes → Repetir el recorrido**.
+desde **Ajustes → Ayuda y seguridad → Repetir el recorrido**.
 
 <p align="center"><img src="img/movil-recorrido.jpg" alt="Recorrido de primer uso en el móvil" width="280"></p>
 

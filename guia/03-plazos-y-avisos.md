@@ -21,8 +21,8 @@ En una ficha también puedes marcar cada plazo con **Marcar hecho**.
 Gestorín te avisa **7 días antes, 1 día antes y el mismo día**, a las 9:00. Puedes cambiarlo en
 **Ajustes → Avisos**.
 
-Algunos papeles tienen sus propios avisos, que también cambias en **Ajustes → Avisos → Por tipo de
-documento**:
+Algunos papeles tienen sus propios avisos, que también cambias en **Ajustes → Avisos → Avisos distintos
+para multas, ITV y carnets**:
 
 | Tipo | Avisos de fábrica |
 |---|---|

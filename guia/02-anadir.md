@@ -20,7 +20,8 @@ Pulsa **Añadir documento** (o **Ctrl+N** en el PC). Tienes cuatro maneras:
 Pulsa **Elegir archivos**, o arrastra el PDF a la ventana. Los PDF que descargas de una sede oficial
 (Hacienda, DGT, Seguridad Social…) se leen muy bien, también sin IA.
 
-> En Windows puedes elegir una **carpeta vigilada** en Ajustes (por ejemplo, Descargas). Cuando
+> En Windows puedes elegir una **carpeta vigilada** en **Ajustes → Opciones avanzadas → Carpeta de
+> descargas** (por ejemplo, Descargas). Cuando
 > descargues un justificante, Gestorín te ofrecerá leerlo. Si viene de la **Agencia Tributaria**, la
 > **DGT**, la **Seguridad Social** o la **DEHú** (notificaciones), lo reconoce por el nombre o por
 > sus datos internos y te dice en qué apartado va: *«Descarga de la Agencia Tributaria: … · va en
