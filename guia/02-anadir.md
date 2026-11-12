@@ -10,8 +10,9 @@ Pulsa **Añadir documento** (o **Ctrl+N** en el PC). Tienes cuatro maneras:
 2. Gestorín encuentra la hoja y marca sus cuatro esquinas. Si no acierta, **arrástralas** hasta los
    bordes (o selecciónalas y usa las flechas del teclado).
 3. Deja marcado **«Mejorar para leer»**: pasa la foto a blanco y negro con más contraste.
-4. Pulsa **Recortar y añadir**. Para más páginas, **Otra página**.
-5. Cuando estén todas, pulsa **Leer**.
+4. Pulsa **Recortar y añadir**. Para más páginas, **Añadir otra página**.
+5. Cuando estén todas, pulsa **Leer**: te dice qué es, cuánto toca pagar y para cuándo. Al volver,
+   llegas a Inicio.
 
 <p align="center"><img src="img/movil-escaneo.jpg" alt="Recorte de una foto: la hoja con sus cuatro esquinas" width="280"></p>
 

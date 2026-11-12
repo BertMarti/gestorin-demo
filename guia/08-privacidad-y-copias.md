@@ -16,13 +16,17 @@
 
 ## Pasar tus ajustes a otro móvil
 
-**Ajustes → Opciones avanzadas → Pasar mis ajustes a otro móvil** crea un código, y su QR, con quién
-lee tus documentos y la dirección del lector de tu casa. Va cifrado con una contraseña de al menos 12
-caracteres: dásela aparte. Tus claves de pago solo van si marcas «Incluir mis claves de pago». Nunca
-lleva documentos, tu frase ni la clave de sincronización.
+**Ajustes → Pasar mis ajustes a otro móvil** (justo después de Familia) crea un código, y su QR, con
+quién lee tus documentos y la dirección del lector de tu casa. **Solo pasa eso:** nunca lleva tus
+documentos, tu familia, tus avisos, tu frase ni la clave de sincronización. Va cifrado con una
+contraseña de al menos 12 caracteres (sirve una frase, como «geranios del balcón»): dísela por
+teléfono o en persona, no en el mismo mensaje. Tus claves de pago solo van si marcas «Incluir mis
+claves de servicios de pago». En el móvil, **Enviar el código** lo manda por WhatsApp o correo.
 
-Quien lo recibe escanea el QR con la cámara, copia el texto, lo pega en **Usar un código que te han
-pasado**, escribe la contraseña y pulsa **Abrir el código**; revisa qué trae y pulsa **Aplicar a mis
+Si tus cartas las lee el programa gratuito de tu ordenador («localhost»), Gestorín te avisa: en otro
+móvil esa dirección no funciona.
+
+Quien lo recibe pega el código en **Usar un código que te han pasado**, escribe la contraseña y pulsa **Abrir el código**; revisa qué trae y pulsa **Aplicar a mis
 ajustes**. Hasta que pulse **Probar conexión**, la app
 le pregunta antes de enviar cada documento a esa dirección. Cómo montar un Ollama para toda la casa:
 [HOMELAB.md](../HOMELAB.md#ollama-para-toda-la-familia).

@@ -47,8 +47,9 @@ Si en la bienvenida no hay un lector en tu ordenador (en el móvil, casi siempre
 6. Actualizaciones.
 7. Ayuda y seguridad.
 
-Lo técnico está al final, en **Opciones avanzadas**: sincronizar con tu propio servidor, pasar los
-ajustes a otro móvil, vigilar la carpeta de descargas e informar de un problema.
+Justo después de Familia está **Pasar mis ajustes a otro móvil**. Lo técnico está al final, en
+**Opciones avanzadas**: sincronizar con tu propio servidor, vigilar la carpeta de descargas e informar
+de un problema.
 
 ## El recorrido
 
