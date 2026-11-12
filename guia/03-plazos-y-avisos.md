@@ -49,8 +49,10 @@ En **Hacienda y trabajo → Resumen de gastos**, elige el año y guarda lo que s
 categoría: multas, impuestos municipales (IBI, impuesto de circulación…), Hacienda, Seguridad Social,
 seguros, suministros y otros.
 
-- **PDF para imprimir**: totales por categoría y el detalle de cada ficha.
-- **Para Excel**: se abre directamente en Excel o LibreOffice, con las tildes y los
+- **En pantalla**: el total del año y lo que suma cada tipo (seguros, impuestos, multas…). Toca un tipo
+  para ver sus fichas y una ficha para abrirla.
+- **Guardar en PDF**: totales por categoría y el detalle de cada ficha.
+- **Hoja de cálculo (Excel)**: se abre directamente en Excel o LibreOffice, con las tildes y los
   céntimos bien.
 
 Cada gasto cuenta en el año de su plazo de pago o, si no tiene, en el año en que añadiste la ficha. Son
