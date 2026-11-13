@@ -1,66 +1,53 @@
 # 8. Privacidad y copias
 
-[← Índice](README.md)
+Tus papeles son tuyos. Todo se guarda cerrado con tu frase, en tu móvil o tu ordenador, y nadie más
+puede leerlo. Lo único que te pedimos es que hagas una copia de seguridad de vez en cuando.
 
-## Qué sale de tu equipo
+## Quién puede ver tus datos
 
-- **Todo se guarda cifrado** con tu frase. Sin ella, nadie puede leerlo.
-- **Gratis en tu equipo (Ollama)** y **Sin IA**: nada sale de casa.
-- **Servicios de internet** (Gemini con tu clave de pago, Groq): Gestorín **pregunta cada vez**,
-  documento a documento, antes de enviar nada. Se procesa fuera de la UE. Avisa especialmente si parece
-  un informe médico o un documento de identidad. Qué permite cada uno:
-  [proveedores](../legal/proveedores.md).
-- **Claude** (de pago): el documento se procesa fuera de la UE. Anthropic no entrena con los datos de
-  su API por defecto.
-- Sin anuncios, sin analíticas, sin cuentas.
+- **Nadie más que tú.** Sin tu frase no se puede abrir nada.
+- Con **Gratis, en tu ordenador** y con **Sin IA**, nada sale de casa.
+- Con **Claude**, la carta se envía a Anthropic para leerla. Gestorín **siempre te pregunta antes**.
+- Sin anuncios, sin cuentas y sin que nadie mire lo que haces.
 
-## Pasar tus ajustes a otro móvil
+## Hacer una copia de seguridad
 
-**Ajustes → Pasar mis ajustes a otro móvil** (justo después de Familia) crea un código, y su QR, con
-quién lee tus documentos y la dirección del lector de tu casa. **Solo pasa eso:** nunca lleva tus
-documentos, tu familia, tus avisos, tu frase ni la clave de sincronización. Va cifrado con una
-contraseña de al menos 12 caracteres (sirve una frase, como «geranios del balcón»): dísela por
-teléfono o en persona, no en el mismo mensaje. Tus claves de pago solo van si marcas «Incluir mis
-claves de servicios de pago». En el móvil, **Enviar el código** lo manda por WhatsApp o correo.
+1. Ve a **Ajustes → Copia de seguridad**.
+2. Escribe una **contraseña para la copia** (al menos 12 letras o números) y repítela. Apúntala.
+3. Pulsa **Guardar copia**. Se crea un solo archivo con todo: guárdalo fuera del móvil.
 
-Si tus cartas las lee el programa gratuito de tu ordenador («localhost»), Gestorín te avisa: en otro
-móvil esa dirección no funciona.
+**Para recuperarla** (en un móvil nuevo, por ejemplo): instala Gestorín, crea tu archivo, vuelve a
+**Ajustes → Copia de seguridad**, escribe la contraseña de la copia y pulsa **Restaurar una copia**.
 
-Quien lo recibe pega el código en **Usar un código que te han pasado**, escribe la contraseña y pulsa **Abrir el código**; revisa qué trae y pulsa **Aplicar a mis
-ajustes**. Hasta que pulse **Probar conexión**, la app
-le pregunta antes de enviar cada documento a esa dirección. Cómo montar un Ollama para toda la casa:
-[HOMELAB.md](../HOMELAB.md#ollama-para-toda-la-familia).
+<p align="center">
+  <img src="img/movil-copia.jpg" alt="Copia de seguridad en Ajustes: la contraseña de la copia y los botones Guardar copia y Restaurar una copia" width="30%">
+</p>
 
-## Copia de seguridad
+## En el ordenador y en el móvil a la vez
 
-**Ajustes → Copia de seguridad**:
+Con un servidor propio en casa, Gestorín mantiene iguales el ordenador y el móvil: está explicado en
+[HOMELAB.md](https://github.com/BertMarti/gestorin/blob/main/docs/HOMELAB.md).
 
-1. Elige una **contraseña para la copia** (al menos 12 caracteres) y repítela.
-2. **Guardar copia** crea un solo archivo `.gestorin` con todo, cifrado.
-3. En otro dispositivo, o tras reinstalar: crea tu archivo, ve a Ajustes, escribe la contraseña de la
-   copia y pulsa **Restaurar una copia**.
+Si cambias la misma ficha en los dos aparatos, se queda el último cambio y **el otro no se pierde**:
 
-<p align="center"><img src="img/movil-copia.jpg" alt="Ajustes con la familia y la copia de seguridad" width="280"></p>
+1. En la ficha verás el aviso «Esta ficha también se cambió desde otro dispositivo». Pulsa **Ver el
+   otro cambio**.
+2. Elige **Usar el otro cambio** o **Quedarme con la actual**.
 
-> La copia trae tus documentos, carnets, familia, calendario fiscal y avisos. **No** trae el servidor
-> de sincronización ni las claves de los servicios de IA: eso se configura en cada dispositivo.
-
-## Sincronizar entre el PC y el móvil
-
-Con tu propio servidor en casa (una Raspberry Pi, por ejemplo), Gestorín mantiene el PC y el móvil
-iguales, siempre cifrado. Ver la [guía del homelab](https://github.com/BertMarti/gestorin/blob/main/docs/HOMELAB.md).
-
-**Si cambias la misma ficha en dos dispositivos sin conexión**, se queda la última edición y la otra no
-se pierde. En la ficha verás *«Esta ficha también se cambió desde otro dispositivo… · Ver el otro
-cambio»*: ahí ves cómo quedaría y eliges **Usar el otro cambio** o **Quedarme con la actual**.
-
-<p align="center"><img src="img/escritorio-conflicto.jpg" alt="Aviso de una versión anterior en una ficha" width="640"></p>
+<p align="center">
+  <img src="img/escritorio-conflicto.jpg" alt="Ficha de una multa con el aviso «Esta ficha también se cambió desde otro dispositivo» y el enlace Ver el otro cambio" width="62%">
+</p>
 
 ## Informar de un problema
 
-Si algo falla, **Ajustes → Opciones avanzadas → Informar de un problema → Guardar informe** crea un `.zip` en tu equipo.
-Lleva la versión, el sistema y los últimos errores. Antes de guardarlo se limpia de DNI, NIE, IBAN,
-nombres, correos, teléfonos, claves y rutas. **No se envía a ningún sitio**: revísalo y adjúntalo tú
-si quieres.
+1. Ve a **Ajustes → Opciones avanzadas → Informar de un problema**.
+2. Pulsa **Guardar informe**. Se guarda en tu aparato, sin tus datos personales.
+3. **No se envía a ningún sitio**: lo mandas tú, si quieres.
 
-[← Buscar y preguntar](07-buscar-y-preguntar.md) · [Siguiente: Preguntas frecuentes →](09-preguntas.md)
+---
+
+[← Anterior: Buscar y preguntar](07-buscar-y-preguntar.md) · [Índice](README.md) · [Siguiente: Preguntas frecuentes →](09-preguntas.md)
+
+## Modelos y su función
+
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

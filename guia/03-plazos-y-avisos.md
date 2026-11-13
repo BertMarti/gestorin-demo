@@ -1,76 +1,58 @@
 # 3. Plazos y avisos
 
-[← Índice](README.md)
+Gestorín convierte cada plazo en una tarea y te avisa a tiempo. Tú solo miras la lista **Por hacer** y
+vas marcando lo que haces. Además, te recuerda lo que toca cada año y te suma lo que llevas gastado.
 
-## Por hacer
+## «Por hacer»: tu lista de tareas
 
-En **Inicio**, la bandeja **Por hacer** convierte cada plazo de los próximos 30 días en una tarea
-concreta: *«Pagar antes del 28 nov»*, *«Presentar alegación antes del…»*, *«Pedir cita ITV…»*, *«Ir a
-la cita el…»*. La más urgente va primero. En rojo, lo **urgente** (3 días o menos).
+1. Abre **Inicio**. Verás lo que vence en los próximos 30 días, **lo más urgente arriba** (en rojo, lo
+   que vence ya).
+2. Toca una tarea para abrir su ficha.
+3. Cuando la hagas, toca el **círculo** de su izquierda. Si te equivocas, pulsa **Deshacer**.
 
-- Cuando la hagas, pulsa el **✓** de su izquierda. Si te equivocas, **Deshacer** en el aviso.
-- Toca la tarea para abrir su ficha.
-- **Hechas** guarda lo que has ido completando y cuándo. Desde ahí puedes **Reabrir** una tarea.
+En **Hechas** queda lo que has ido completando; desde ahí puedes **Reabrir** una tarea.
 
-<p align="center"><img src="img/escritorio-inicio.jpg" alt="Inicio con la bandeja Por hacer y los apartados" width="640"></p>
+<p align="center">
+  <img src="img/escritorio-inicio.jpg" alt="Inicio en el ordenador: la lista Por hacer a la izquierda, con lo vencido y lo urgente en rojo, y los apartados a la derecha" width="92%">
+</p>
 
-En una ficha también puedes marcar cada plazo con **Marcar hecho**.
+## Los avisos
 
-## Avisos
+Te avisamos **a las 9:00 de la mañana**: 7 días antes, 1 día antes y el mismo día. Algunos papeles
+tienen sus propios avisos:
 
-Gestorín te avisa **7 días antes, 1 día antes y el mismo día**, a las 9:00. Puedes cambiarlo en
-**Ajustes → Avisos**.
-
-Algunos papeles tienen sus propios avisos, que también cambias en **Ajustes → Avisos → Avisos distintos
-para multas, ITV y carnets**:
-
-| Tipo | Avisos de fábrica |
+| Papel | Cuándo te avisa |
 |---|---|
-| Multas | A los días 10 y 18 de los 20 del pronto pago, y el último día |
-| ITV | Un mes antes, una semana antes y el mismo día |
-| DNI y carnets | Tres meses antes, uno antes, una semana antes y el mismo día |
+| **Multas** | Dos veces dentro del plazo con descuento y el último día. |
+| **ITV** | Un mes antes, una semana antes y el mismo día. |
+| **DNI y carnets** | Tres meses antes, un mes antes, una semana antes y el mismo día. |
 
-Si un plazo concreto necesita otros días, cámbialos en su ficha: esos ganan a todo.
+- Para cambiarlos: **Ajustes → Avisos** y, dentro, **Avisos distintos para multas, ITV y carnets**.
+- El aviso no dice de qué se trata («Vence un plazo mañana»), por si alguien ve tu móvil.
+- En Android puedes poner en la pantalla del móvil el recuadro **Gestorín: próximos plazos**.
 
-- Los avisos **no dicen de qué se trata** («Vence un plazo mañana»), porque se ven con el móvil
-  bloqueado.
-- En Windows, Gestorín vive junto al reloj y avisa aunque no lo tengas abierto.
+## El calendario del año
 
-## A tu calendario
+1. Entra en **Hacienda y trabajo** y baja hasta **Calendario del año**.
+2. Marca lo que te toca: la **renta**, el **IBI**, el **impuesto de circulación** o la **ITV**.
+3. Gestorín te avisa cada año, sin que tengas que volver a apuntarlo.
 
-Junto a cada plazo hay un botón de calendario: guarda un archivo `.ics` que abres con Google
-Calendar, Outlook o el calendario del móvil. **Añadir todos** guarda los de la ficha.
+## El resumen de gastos
 
-> Los plazos de **Salud** llegan al calendario sin nada médico: solo «Plazo de salud».
+Debajo del calendario está **Resumen de gastos**: cuánto llevas pagado este año en seguros, impuestos,
+multas, luz y agua… Elige el año y **toca un tipo para ver sus recibos**. Con **Guardar en PDF** u
+**Hoja de cálculo (Excel)** te lo llevas para tu gestor.
 
-## Resumen de gastos del año
+<p align="center">
+  <img src="img/escritorio-calendario.jpg" alt="Calendario del año: la renta y la ITV marcadas, con sus avisos; el IBI y el impuesto de circulación, sin marcar" width="62%">
+  &nbsp;
+  <img src="img/movil-gastos.jpg" alt="Resumen de gastos de 2026: seguros 741,75 euros, desplegado con sus dos recibos, y el total del año" width="30%">
+</p>
 
-En **Hacienda y trabajo → Resumen de gastos**, elige el año y guarda lo que suman las fichas con importe, por
-categoría: multas, impuestos municipales (IBI, impuesto de circulación…), Hacienda, Seguridad Social,
-seguros, suministros y otros.
+---
 
-- **En pantalla**: el total del año y lo que suma cada tipo (seguros, impuestos, multas…). Toca un tipo
-  para ver sus fichas y una ficha para abrirla.
-- **Guardar en PDF**: totales por categoría y el detalle de cada ficha.
-- **Hoja de cálculo (Excel)**: se abre directamente en Excel o LibreOffice, con las tildes y los
-  céntimos bien.
+[← Anterior: Añadir un papel](02-anadir.md) · [Índice](README.md) · [Siguiente: Identidad →](04-identidad.md)
 
-Cada gasto cuenta en el año de su plazo de pago o, si no tiene, en el año en que añadiste la ficha. Son
-los importes que constan en las fichas: compruébalos con tus justificantes.
+## Modelos y su función
 
-<p align="center"><img src="img/escritorio-gastos.jpg" alt="Resumen de gastos del año" width="640"></p>
-
-## Calendario del año
-
-En **Hacienda y trabajo → Calendario del año**, activa lo que te toca cada año: la **renta** (hasta el
-30 de junio), el **IBI**, el **impuesto de circulación** y la **ITV**. Gestorín crea la ficha de cada
-año y te avisa con la antelación que elijas.
-
-<p align="center"><img src="img/escritorio-calendario.jpg" alt="Calendario del año con la renta y la ITV" width="640"></p>
-
-## Widget en Android
-
-Mantén pulsada la pantalla de inicio del móvil → **Widgets** → **Gestorín: próximos plazos**. Muestra
-hasta tres plazos (por ejemplo, «Pago · en 2 días»), sin detalles.
-
-[← Añadir papeles](02-anadir.md) · [Siguiente: Identidad →](04-identidad.md)
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

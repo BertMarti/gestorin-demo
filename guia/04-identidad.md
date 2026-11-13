@@ -1,31 +1,44 @@
 # 4. Identidad
 
-[← Índice](README.md)
+Aquí apuntas tu DNI, el carnet de conducir, el pasaporte y la tarjeta sanitaria, con su fecha de
+caducidad. Gestorín te avisa con tiempo (tres meses antes, un mes antes, una semana antes y el mismo
+día) y te lleva a pedir la cita para renovarlos.
 
-En **Identidad** guardas tu DNI, el permiso de conducir, el pasaporte y la tarjeta sanitaria, con su
-fecha de caducidad. Gestorín te avisa **90, 30 y 7 días antes** y el mismo día.
+## Apuntar un carnet
 
-<p align="center"><img src="img/movil-identidad.jpg" alt="Identidad con la cita para renovar el DNI" width="280"></p>
+1. Entra en **Identidad** y pulsa **Añadir**.
+2. Elige qué carnet es y escribe su fecha de caducidad.
+3. Guárdalo. Verás la línea «Aviso puesto»: ya no tienes que acordarte.
 
-## Qué tiene validez legal (y qué no)
+<p align="center">
+  <img src="img/movil-identidad.jpg" alt="Identidad: el DNI caduca en 74 días, con el aviso puesto y los botones Abrir o instalar MiDNI y Pedir cita para renovar" width="30%">
+</p>
 
-| Documento | ¿Vale para identificarte? |
+## Qué vale para identificarte
+
+| | ¿Vale? |
 |---|---|
-| **Permiso de conducir en la app miDGT** | **Sí**, ante los agentes de tráfico en España, según la DGT (lo verifican con un código QR). Fuera de España, lleva el físico |
-| **DNI en la app MiDNI** | Es la app oficial de la Policía Nacional. Su alcance legal exacto está por verificar, y **no sirve para viajar** |
-| **La copia que guardas en Gestorín** | **No.** Es solo para tu control; siempre se muestra como «Copia sin validez legal» |
+| **Tu DNI o tu carnet físico** | **Sí**, siempre. |
+| **La app oficial miDGT** | **Sí**, para conducir en España. Fuera de España, lleva el carnet físico. |
+| **La app oficial MiDNI** | **Sí**, para identificarte en España. No sirve para viajar. |
+| **Lo que guardas en Gestorín** | **No.** Es solo para tu control: no tiene validez legal. |
 
-Por eso, el DNI y el permiso tienen un botón que abre la app oficial o te lleva a instalarla: en el
-móvil, **«Abrir o instalar MiDNI»** y **«Abrir o instalar miDGT»**; en el ordenador, **«miDGT en Google
-Play (es para el móvil)»**.
+Gestorín abre esas apps con un toque (**Abrir o instalar MiDNI**, **Abrir o instalar miDGT**), pero no
+las sustituye.
 
 ## Renovar
 
-Cuando faltan menos de 6 meses, aparece:
+Cuando se acerca la fecha, aparece el botón:
 
-- **DNI y pasaporte → Pedir cita para renovar**: la cita previa oficial y **gratuita** de la Policía
-  Nacional (también en el 060). Desconfía de las webs que cobran por pedirla.
-- **Permiso de conducir → Cómo renovarlo**: la página de la DGT. Lo más rápido es un centro de
-  reconocimiento de conductores, que lo tramita por ti.
+- **Pedir cita para renovar** (DNI y pasaporte): te lleva a la cita oficial de la Policía Nacional. La
+  cita es **gratuita**; desconfía de las webs que cobran por pedirla.
+- **Cómo renovarlo** (carnet de conducir): te lleva a la web de la DGT. Lo más rápido suele ser un
+  centro de reconocimiento de conductores, que lo tramita por ti.
 
-[← Plazos y avisos](03-plazos-y-avisos.md) · [Siguiente: Trámites →](05-tramites.md)
+---
+
+[← Anterior: Plazos y avisos](03-plazos-y-avisos.md) · [Índice](README.md) · [Siguiente: Trámites y multas →](05-tramites.md)
+
+## Modelos y su función
+
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

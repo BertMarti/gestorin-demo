@@ -1,37 +1,53 @@
-# 5. Trámites
+# 5. Trámites y multas
 
-[← Índice](README.md)
+Gestorín **no entra en la DGT ni en Hacienda por ti**: te lleva a la web oficial, allí te identificas tú
+y guardas el justificante. Nunca te pide tus claves. Con las multas, además, te dice si puedes pagar la
+mitad y te ayuda a reclamar.
 
-## Hazlo en la web oficial
+## Hacer un trámite oficial
 
-Cada ficha enlaza el trámite que le toca: pagar o alegar una multa de la DGT, las notificaciones de
-Hacienda, la vida laboral… **Te identificas tú** en la web oficial (Cl@ve, DNIe o certificado).
-Gestorín no guarda tus claves ni hace trámites en tu nombre.
+1. Abre la ficha, o entra en su apartado (**Vehículo**, **Hacienda y trabajo**…).
+2. Baja hasta **Trámites oficiales** y toca el que necesitas: pagar una multa, la renta, la vida laboral…
+3. Se abre la web oficial. Identifícate tú y, al acabar, descarga el justificante y añádelo a Gestorín.
 
-<p align="center"><img src="img/escritorio-multa-dgt.jpg" alt="Ficha de una multa de la DGT con sus plazos" width="640"></p>
+<p align="center">
+  <img src="img/escritorio-vehiculo.jpg" alt="Apartado Vehículo: los próximos plazos de las multas y, debajo, los trámites oficiales de la DGT" width="62%">
+</p>
 
-## Multas: pagar o alegar
+## Una multa: pagar o reclamar
 
-En la mayoría de multas de tráfico tienes un **50 % de descuento si pagas en los 20 días naturales**
-siguientes a la notificación. Pero **pagar con descuento es renunciar a alegar**, y los puntos se
-pierden igual.
+La ficha te dice **cuánto pagas con descuento y hasta cuándo**. Tienes que elegir una de las dos:
 
-¿No estás de acuerdo? En la ficha de la multa, **Preparar alegaciones (borrador)**:
+| | Qué supone |
+|---|---|
+| **Pagar con descuento** | Pagas la mitad si lo haces en 20 días. A cambio, ya no puedes reclamar. |
+| **Reclamar (alegaciones)** | Explicas por qué no estás de acuerdo. Pierdes el descuento. |
 
-1. Marca los motivos (pedir las pruebas, no conducías, errores en los datos…) y escribe lo que pasó.
-2. **Usar mi DNI de Identidad** rellena tu nombre y DNI.
-3. **Copiar** o **Guardar en la ficha**, y preséntalo donde te indica: la sede de la DGT o, si la
-   multa es del ayuntamiento, su sede o el Registro Electrónico General.
+Si no conducías tú, tienes 20 días para decir quién conducía.
 
-> Es un **borrador**, no asesoramiento jurídico. Revísalo y, si dudas, consulta a un abogado o a una
-> asociación de consumidores. Si no conducías tú, tienes que **identificar a quien conducía en 20
-> días naturales**.
+**Multas de zona azul (ORA):** en muchas ciudades se anulan el mismo día pagando poco. Gestorín te lo
+recuerda en la ficha.
 
-<p align="center"><img src="img/movil-alegaciones.jpg" alt="Borrador de alegaciones en el móvil" width="280"></p>
+## Preparar las alegaciones
 
-## Todo en un PDF
+1. En la ficha de la multa, pulsa **Preparar alegaciones (borrador)**.
+2. Marca tus motivos y escribe lo que pasó.
+3. Pulsa **Usar mi DNI de Identidad** para que rellene tu nombre y tu DNI.
+4. Pulsa **Copiar** o **Guardar en la ficha**, y preséntalo donde te indica, en «Dónde presentarlo».
 
-En cualquier ficha con originales, **Guardar todo en un PDF** junta en un solo archivo la ficha (qué es, importe,
-plazos, pasos y notas), las fotos y los PDF originales. Útil para imprimir o mandar a una gestoría.
+> Es un **borrador** para que lo revises: Gestorín no es un abogado. Si dudas, consulta a uno o a una
+> asociación de consumidores.
 
-[← Identidad](04-identidad.md) · [Siguiente: Familia →](06-familia.md)
+<p align="center">
+  <img src="img/escritorio-multa-tramites.jpg" alt="Multa de la DGT: enlaces a la web oficial para pagar, reclamar o consultar los puntos" width="62%">
+  &nbsp;
+  <img src="img/movil-alegaciones.jpg" alt="Borrador de alegaciones en el móvil, con los botones Copiar y Guardar en la ficha" width="30%">
+</p>
+
+---
+
+[← Anterior: Identidad](04-identidad.md) · [Índice](README.md) · [Siguiente: Familia →](06-familia.md)
+
+## Modelos y su función
+
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

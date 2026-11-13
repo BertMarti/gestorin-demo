@@ -1,57 +1,58 @@
-# 2. Añadir papeles
+# 2. Añadir un papel y leer su ficha
 
-[← Índice](README.md)
-
-Pulsa **Añadir documento** (o **Ctrl+N** en el PC). Tienes cuatro maneras:
+Es lo que más vas a usar. Le das la carta a Gestorín (con una foto basta) y él te prepara una
+**ficha**: qué es, cuánto pagas y hasta cuándo, con palabras normales.
 
 ## Con una foto
 
-1. Pulsa **Hacer foto**. Una foto por página, con buena luz y sin cortar los bordes.
-2. Gestorín encuentra la hoja y marca sus cuatro esquinas. Si no acierta, **arrástralas** hasta los
-   bordes (o selecciónalas y usa las flechas del teclado).
-3. Deja marcado **«Mejorar para leer»**: pasa la foto a blanco y negro con más contraste.
-4. Pulsa **Recortar y añadir**. Para más páginas, **Añadir otra página**.
-5. Cuando estén todas, pulsa **Leer**: te dice qué es, cuánto toca pagar y para cuándo. Al volver,
-   llegas a Inicio.
+1. Pulsa **Añadir documento** y luego **Hacer foto**. Una foto por página, con buena luz y sin cortar
+   los bordes. Si la foto ya la tienes, pulsa **Elegir de la galería**.
+2. Gestorín encuentra la hoja y marca sus cuatro esquinas. Si no acierta, arrástralas hasta los bordes.
+3. Deja marcado **Mejorar para leer** y pulsa **Recortar y añadir**.
+4. ¿Tiene más páginas? Pulsa **Añadir otra página**.
+5. Pulsa **Leer**. En un momento tienes la ficha.
 
-<p align="center"><img src="img/movil-escaneo.jpg" alt="Recorte de una foto: la hoja con sus cuatro esquinas" width="280"></p>
+## Otras maneras de añadir
 
-## Con un PDF
+| Tienes… | Haz esto |
+|---|---|
+| **Un PDF** | En el ordenador, pulsa **Elegir archivos** o arrástralo a la ventana. |
+| **Un correo** | Guarda el correo (`.eml`, o `.msg` en Outlook) y arrástralo. Gestorín lee también lo que trae adjunto. |
+| **Nada en papel** (una cita del médico, la ITV) | Pulsa **Apuntar a mano**, escribe un título, la fecha y qué vence, y pulsa **Guardar**. Te avisará igual. |
 
-Pulsa **Elegir archivos**, o arrastra el PDF a la ventana. Los PDF que descargas de una sede oficial
-(Hacienda, DGT, Seguridad Social…) se leen muy bien, también sin IA.
+Las cartas en catalán, gallego o euskera también se leen: Gestorín te las explica en castellano.
 
-> En Windows puedes elegir una **carpeta vigilada** en **Ajustes → Opciones avanzadas → Carpeta de
-> descargas** (por ejemplo, Descargas). Cuando
-> descargues un justificante, Gestorín te ofrecerá leerlo. Si viene de la **Agencia Tributaria**, la
-> **DGT**, la **Seguridad Social** o la **DEHú** (notificaciones), lo reconoce por el nombre o por
-> sus datos internos y te dice en qué apartado va: *«Descarga de la Agencia Tributaria: … · va en
-> Hacienda y trabajo»*.
+## La ficha: tu carta, explicada
 
-## Cartas en catalán, gallego o euskera
+Arriba, en grande, **para cuándo** y **cuánto**. Debajo, **qué es** y **qué tienes que hacer**, paso a
+paso. Al final, sus plazos, con una línea que te dice cuándo te avisaremos. No tienes que hacer nada más.
 
-Las cartas de la Generalitat, la Xunta, el Gobierno Vasco o de tu ayuntamiento («Ajuntament»,
-«Concello», «Udala») se leen igual de bien. Gestorín te las explica **en castellano** y la ficha indica
-*«Original en catalán»* (o gallego, o euskera). Si prefieres la explicación en la lengua del documento,
-márcalo en **Ajustes → Quién lee tus documentos**. El modo «Sin IA» también entiende sus fechas,
-importes y plazos.
+<p align="center">
+  <img src="img/movil-escaneo.jpg" alt="Foto de una carta con sus cuatro esquinas marcadas, la casilla Mejorar para leer y el botón Recortar y añadir" width="30%">
+  &nbsp;
+  <img src="img/movil-ficha.jpg" alt="Ficha de la multa: para cuándo (2 días), cuánto (45 euros) y qué es" width="30%">
+  &nbsp;
+  <img src="img/movil-plazos.jpg" alt="Final de la ficha: plazos con Al calendario y Marcar hecho, el aviso «te avisaremos 10 y 2 días antes» y Guardar todo en un PDF" width="30%">
+</p>
 
-## Con un correo
+| Botón | Para qué sirve |
+|---|---|
+| **Marcar hecho** | Ya lo has pagado o presentado: desaparece de tus tareas. |
+| **Al calendario** | Apunta ese plazo en el calendario de tu móvil o tu ordenador. |
+| **Editar** | Corrige una fecha, un importe o cualquier otro dato. |
+| **Ver el original** | Enseña la carta tal como la fotografiaste. |
+| **Guardar todo en un PDF** | Junta la explicación, los plazos y la carta original, para imprimir o enviar a tu gestor. |
 
-¿Te llegó la multa por correo? Guarda el correo (`.eml`, o `.msg` en Outlook) y arrástralo a
-Gestorín. Se leen sus adjuntos PDF y fotos; si no trae adjuntos, se lee el texto del correo. La ficha
-recuerda de quién y cuándo llegó.
+> **Compruébalo siempre.** Gestorín puede equivocarse con una fecha o un importe. Míralo en **Ver el
+> original** y, si algo está mal, corrígelo con **Editar**.
 
-## Sin papel: apuntar a mano
+Si usas Gestorín en dos aparatos y cambias la misma ficha en los dos, no se pierde nada: la ficha te
+avisa y te deja ver la versión anterior (está en [Privacidad y copias](08-privacidad-y-copias.md)).
 
-Para una cita médica, la ITV o el IBI: **Añadir documento → Apuntar a mano**. Escribe un título, la
-fecha y qué vence. Te avisaremos igual.
+---
 
-<p align="center"><img src="img/movil-apuntar-a-mano.jpg" alt="Apuntar a mano una cita" width="280"></p>
+[← Anterior: Empezar](01-empezar.md) · [Índice](README.md) · [Siguiente: Plazos y avisos →](03-plazos-y-avisos.md)
 
-## Revisa siempre
+## Modelos y su función
 
-La IA puede equivocarse. En cada ficha comprueba la **fecha** y el **importe** con el original
-(**Ver el original**). Si algo está mal, pulsa el lápiz para corregirlo.
-
-[← Empezar](01-empezar.md) · [Siguiente: Plazos y avisos →](03-plazos-y-avisos.md)
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

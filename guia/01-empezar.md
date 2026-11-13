@@ -1,61 +1,67 @@
 # 1. Empezar
 
-[← Índice](README.md)
+Esto se hace una sola vez y lleva unos diez minutos: instalas Gestorín, eliges una frase secreta y
+decides quién lee tus cartas. Después, solo tendrás que hacer fotos.
 
 ## Instalar
 
-- **Windows:** descarga el instalador `.exe` de la última versión en
-  [Releases](https://github.com/BertMarti/gestorin/releases/latest) y ábrelo. Si Windows avisa de que
-  no conoce la aplicación, pulsa *Más información → Ejecutar de todas formas*. Gestorín aún no está
-  firmado (ver el [README](https://github.com/BertMarti/gestorin#si-windows-no-te-deja-instalarlo)).
-- **Android:** descarga el archivo `.apk` y ábrelo. El móvil te pedirá permiso para instalar apps de
-  origen desconocido.
+Descarga Gestorín desde la [página de descargas](https://github.com/BertMarti/gestorin/releases/latest).
 
-## Crear tu archivo
+**En el ordenador (Windows)**
 
-La primera vez, Gestorín te pide una **frase** que solo sepas tú. Con ella se cifra todo lo que
-guardes.
+1. Descarga el instalador de Windows y ábrelo.
+2. Si Windows dice que no conoce la aplicación, pulsa **Más información → Ejecutar de todas formas**.
+   Es normal: Gestorín todavía no está firmado.
+3. Si lo bloquea «Smart App Control», usa el móvil o la demo mientras sale la versión firmada.
 
-> **Importante:** si olvidas la frase, nadie puede recuperar tus datos, ni nosotros. Apúntala en un
-> lugar seguro (un gestor de contraseñas, por ejemplo).
+**En el móvil (Android)**
 
-¿Ya usas Gestorín en otro dispositivo? Elige **«Ya lo uso en otro dispositivo»** y pon la dirección de tu
-servidor, su clave y tu frase (ver [Privacidad y copias](08-privacidad-y-copias.md)).
+1. Descarga el archivo de Android y ábrelo.
+2. El móvil te pedirá permiso para instalar aplicaciones de origen desconocido: acéptalo.
 
-## ¿Quién lee tus documentos?
+## Crear tu archivo con una frase
 
-| Opción | Cómo funciona | Para quién |
+1. La primera vez, Gestorín te pide una **frase** que solo sepas tú. Es la llave de todo lo que guardes.
+2. Apúntala en papel y guárdala en un sitio seguro.
+
+> **Importante:** si olvidas la frase, **nadie puede recuperar tus datos, ni nosotros**.
+
+¿Ya usas Gestorín en otro aparato? Elige **Ya lo uso en otro dispositivo**.
+
+## Elegir quién lee tus documentos
+
+| | Cómo es | Cuesta |
 |---|---|---|
-| **Gratis, en tu ordenador** (recomendada) | Un modelo de IA en tu propio equipo o en otro de tu casa (Ollama). Nada sale de casa | La mayoría |
-| **Sin IA** | Lee el texto en tu dispositivo y saca fechas e importes. No explica el documento | Si no tienes Ollama o no quieres usar ninguna IA |
-| **Claude** (de pago) | La lectura más fiable; cada documento cuesta unos céntimos, con tu clave | Si quieres la máxima precisión |
+| **Gratis, en tu ordenador** (recomendado) | Un programa gratuito lee la carta en tu ordenador o en otro de casa. Nada sale de casa. | Nada |
+| **Sin IA** | Saca fechas, importes y referencias en tu propio móvil, sin instalar nada, pero no te explica la carta. | Nada |
+| **Claude** | El que mejor acierta. La carta se envía a Anthropic, que la lee y no la guarda para entrenar. | Unos céntimos por carta |
 
-Si no tienes Ollama, también puedes añadir **Gemini con tu clave de pago** o **Groq**. Gestorín te
-pregunta antes de enviar cada documento. Gemini gratis, NVIDIA y OpenRouter `:free` no se ofrecen: sus
-condiciones no lo permiten ([por qué](../legal/proveedores.md)).
+- Si no sabes cuál elegir, deja la que Gestorín te propone. En el móvil suele ser **Sin IA**.
+- Lo cambias cuando quieras en **Ajustes → Quién lee tus documentos**.
+- Antes de enviar un documento fuera de casa, Gestorín **siempre te pregunta**.
+- ¿Quieres el programa gratuito para toda la casa? Está explicado en [HOMELAB.md](https://github.com/BertMarti/gestorin/blob/main/docs/HOMELAB.md).
 
-Si en la bienvenida no hay un lector en tu ordenador (en el móvil, casi siempre), Gestorín propone
-**Sin IA**, para que tu primera carta se lea en vez de fallar. Puedes cambiarlo cuando quieras en
-**Ajustes**.
+<p align="center">
+  <img src="img/movil-quien-lee.jpg" alt="Quién lee tus documentos: Gratis en tu ordenador, Sin IA o Claude (de pago)" width="30%">
+  &nbsp;
+  <img src="img/movil-recorrido.jpg" alt="Recorrido de bienvenida, paso 1 de 6: la lista Por hacer, con el botón Siguiente" width="30%">
+</p>
 
-**Ajustes**, de arriba abajo:
-1. Familia.
-2. Avisos.
-3. Quién lee tus documentos.
-4. Copia de seguridad.
-5. Tu comunidad.
-6. Actualizaciones.
-7. Ayuda y seguridad.
+## El recorrido de bienvenida
 
-Justo después de Familia está **Pasar mis ajustes a otro móvil**. Lo técnico está al final, en
-**Opciones avanzadas**: sincronizar con tu propio servidor, vigilar la carpeta de descargas e informar
-de un problema.
+Al terminar, Gestorín te enseña Inicio en seis pasos: pulsa **Siguiente** en cada uno. Para verlo otra
+vez: **Ajustes → Ayuda y seguridad → Repetir el recorrido**.
 
-## El recorrido
+## Dónde está cada cosa en Ajustes
 
-Al terminar, un recorrido de seis pasos te enseña Inicio. Puedes saltarlo con **Esc** y repetirlo
-desde **Ajustes → Ayuda y seguridad → Repetir el recorrido**.
+De arriba abajo: **Familia**, **Avisos**, **Quién lee tus documentos**, **Copia de seguridad**, **Tu
+comunidad**, **Actualizaciones** y **Ayuda y seguridad**. Al final, **Opciones avanzadas**, que casi
+nunca te hará falta.
 
-<p align="center"><img src="img/movil-recorrido.jpg" alt="Recorrido de primer uso en el móvil" width="280"></p>
+---
 
-[Siguiente: Añadir papeles →](02-anadir.md)
+[← Anterior: Guía](README.md) · [Índice](README.md) · [Siguiente: Añadir un papel →](02-anadir.md)
+
+## Modelos y su función
+
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.

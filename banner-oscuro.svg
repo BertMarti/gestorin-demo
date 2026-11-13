@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Gestorín</title>
+  <desc id="d">Tu papeleo, en orden: qué es, cuánto pagas y para cuándo. Para Windows y Android.</desc>
+  <rect width="1200" height="300" fill="#1a1916"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#ece6da"/>
+  <!-- Texto a la izquierda (hasta x≈640, con letra de reserva incluida); tarjeta a la derecha (desde x=790): no se tocan. -->
+  <g transform="translate(64 64)">
+    <rect width="36" height="48" rx="2" fill="none" stroke="#ece6da" stroke-width="3"/>
+    <path d="M8 14h20M8 22h20M8 30h12" stroke="#ece6da" stroke-width="3" stroke-linecap="square"/>
+    <circle cx="28" cy="38" r="4" fill="#9fb8e8"/>
+  </g>
+  <text x="118" y="106" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="58" font-weight="500" fill="#ece6da" letter-spacing="-1">Gestorín</text>
+  <g font-family="'Public Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#b5ad9f">
+    <text x="64" y="168" font-size="27">Tu papeleo, en orden:</text>
+    <text x="64" y="204" font-size="27">qué es, cuánto pagas y para cuándo.</text>
+    <text x="64" y="256" font-size="15" font-weight="600" fill="#9fb8e8" letter-spacing="1.5">IDENTIDAD · VEHÍCULO · HOGAR · SALUD · HACIENDA</text>
+  </g>
+  <g transform="translate(790 58)" font-family="'Public Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <rect width="346" height="184" rx="2" fill="#24221f" stroke="#3d3a34"/>
+    <rect width="346" height="2" fill="#ece6da"/>
+    <text x="20" y="36" font-family="Newsreader, Georgia, serif" font-size="20" fill="#ece6da">Por hacer</text>
+    <line x1="0" y1="52" x2="346" y2="52" stroke="#3d3a34"/>
+    <text x="20" y="104" font-family="Newsreader, Georgia, serif" font-size="50" fill="#f07d72">2</text>
+    <text x="22" y="124" font-size="13" fill="#b5ad9f">días</text>
+    <rect x="22" y="128" width="30" height="3" fill="#f07d72"/>
+    <text x="84" y="84" font-size="16" font-weight="600" fill="#ece6da">Pagar antes del 14 nov</text>
+    <text x="84" y="106" font-size="13" fill="#b5ad9f">Multa · con descuento</text>
+    <text x="84" y="128" font-size="16" font-weight="600" fill="#ece6da">45,00 €</text>
+    <line x1="0" y1="146" x2="346" y2="146" stroke="#3d3a34"/>
+    <text x="20" y="171" font-size="13" fill="#b5ad9f">Te avisaremos 10 y 2 días antes</text>
+  </g>
+</svg>

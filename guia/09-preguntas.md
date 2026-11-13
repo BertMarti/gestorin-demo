@@ -1,46 +1,65 @@
 # 9. Preguntas frecuentes
 
-[← Índice](README.md)
+Las dudas más habituales, con respuesta corta. Si la tuya no está, mira el [índice](README.md): cada
+página explica una cosa, paso a paso.
 
-**¿Me puede multar un agente si le enseño la copia del carnet de Gestorín?**
-La copia de Gestorín no tiene validez legal. Enséñale el permiso en **miDGT** (Gestorín la abre con
-el botón «Abrir o instalar miDGT» en el móvil) o el carnet físico.
+<p align="center">
+  <img src="img/movil-inicio.jpg" alt="Inicio de Gestorín en el móvil, con los botones Buscar y Añadir documento y la lista Por hacer" width="30%">
+</p>
+
+## Dinero y datos
+
+**¿Cuánto cuesta?**
+Nada. Solo pagas si eliges Claude, y se lo pagas directamente a Anthropic: unos céntimos por carta.
+
+**¿Mis datos van a internet?**
+No, salvo que tú lo elijas. Todo se guarda cerrado en tu aparato y, si un documento tuviera que salir de
+casa, te lo preguntamos antes.
+
+**¿Funciona sin internet?**
+Sí, con «Gratis, en tu ordenador» o con «Sin IA». Los avisos funcionan siempre.
+
+**¿Y si olvido mi frase?**
+Nadie puede recuperar tus datos, ni nosotros. Si tienes una copia de seguridad, crea un archivo nuevo y
+pulsa **Restaurar una copia**. Por eso conviene [hacer copias](08-privacidad-y-copias.md).
+
+## Uso
+
+**¿Y si se equivoca con una fecha o un importe?**
+Puede pasar. Abre la ficha, compruébalo en **Ver el original** y corrígelo con **Editar**. Si la carta es
+importante, **¿Dudas de una fecha? Léelo con Claude (de pago)** la vuelve a leer.
 
 **¿Gestorín paga mis multas o presenta trámites por mí?**
 No. Te lleva a la web oficial y allí te identificas tú. Así nadie más tiene tus claves.
 
-**He olvidado mi frase. ¿Qué hago?**
-Sin la frase no se pueden abrir tus datos, y nadie puede recuperarla. Si tienes una **copia de
-seguridad**, crea un archivo nuevo y restáurala con la contraseña de la copia.
+**¿Puedo enseñarle Gestorín a un agente de tráfico?**
+No: lo que guardas aquí no tiene validez legal. Enséñale **miDGT** (Gestorín la abre con un toque) o tu
+carnet físico.
 
-**La IA se ha equivocado con una fecha.**
-Abre la ficha, pulsa el lápiz y corrígela. Si el documento es importante y tienes una clave de Claude,
-**Reanalizar con Claude** lo vuelve a leer con más precisión (sin clave, la ficha te lleva a Ajustes).
+**Uso un lector de pantalla o me manejo solo con el teclado.**
+Gestorín se puede usar entero con el teclado. Los atajos están en
+[Buscar y preguntar](07-buscar-y-preguntar.md).
 
-**¿Funciona sin internet?**
-Sí, con Ollama en tu equipo o con «Sin IA». Los avisos funcionan siempre.
+## Instalación
 
-**¿Cuánto cuesta?**
-Gestorín es gratis. Solo pagas si eliges Claude: unos céntimos por documento.
-
-**Windows no me deja instalarlo.**
-Ver [«Si Windows no te deja instalarlo»](https://github.com/BertMarti/gestorin#si-windows-no-te-deja-instalarlo).
+**Windows dice que no conoce la aplicación.**
+Todavía no está firmada. Pulsa **Más información → Ejecutar de todas formas**. Si lo bloquea «Smart App
+Control», usa el móvil o la demo mientras sale la versión firmada.
 
 **Tenía Gestorín en Android y la versión nueva no se instala.**
-Desde la 2.22.1, el APK está firmado con la clave de Gestorín, y las versiones anteriores llevaban una
-clave de pruebas. Android no deja instalar una encima de la otra. Haz esto una sola vez:
+Pasa una sola vez, con versiones antiguas. Haz esto, en este orden:
 
 1. Guarda una copia en **Ajustes → Copia de seguridad**.
-2. Desinstala la versión anterior. Al desinstalar se borra su archivo.
-3. Instala la nueva y restaura la copia.
+2. Desinstala la versión anterior (al hacerlo se borran sus datos: por eso la copia va primero).
+3. Instala la nueva y pulsa **Restaurar una copia**.
 
-**¿Por qué Windows sigue en la 2.21.0?**
-Las versiones nuevas se compilan en el PC de desarrollo y, este mes, el instalador de Windows aún no
-se puede generar ahí. La 2.21.0 sigue siendo la versión recomendada para Windows.
+**¿Funciona en iPhone?**
+Todavía no: en Windows y Android.
 
-**Uso un lector de pantalla.**
-Gestorín se puede usar entero con el teclado (**Tab**, **Enter**, **Esc**; «Ir al contenido» salta la
-cabecera) y anuncia los avisos y los resultados de búsqueda. En Windows, **?** muestra los atajos y
-**Ctrl+K** abre la paleta de comandos. Si las teclas sueltas te molestan, se apagan en Ajustes.
+---
 
-[← Privacidad y copias](08-privacidad-y-copias.md) · [Índice](README.md)
+[← Anterior: Privacidad y copias](08-privacidad-y-copias.md) · [Índice](README.md)
+
+## Modelos y su función
+
+Claude Fable 5.2 reescribió esta guía a partir de la versión anterior; Claude Opus 5.5 hizo las capturas y la revisó.
