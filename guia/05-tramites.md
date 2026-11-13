@@ -46,7 +46,7 @@ recuerda en la ficha.
 
 ---
 
-[← Anterior: Identidad](04-identidad.md) · [Índice](README.md) · [Siguiente: Familia →](06-familia.md)
+[← Índice](README.md) · [Anterior: Identidad](04-identidad.md) · [Siguiente: Familia →](06-familia.md)
 
 ## Modelos y su función
 

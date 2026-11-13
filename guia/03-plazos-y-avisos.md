@@ -51,7 +51,7 @@ multas, luz y agua… Elige el año y **toca un tipo para ver sus recibos**. Con
 
 ---
 
-[← Anterior: Añadir un papel](02-anadir.md) · [Índice](README.md) · [Siguiente: Identidad →](04-identidad.md)
+[← Índice](README.md) · [Anterior: Añadir un papel](02-anadir.md) · [Siguiente: Identidad →](04-identidad.md)
 
 ## Modelos y su función
 

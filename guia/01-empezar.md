@@ -11,8 +11,8 @@ Descarga Gestorín desde la [página de descargas](https://github.com/BertMarti/
 
 1. Descarga el instalador de Windows y ábrelo.
 2. Si Windows dice que no conoce la aplicación, pulsa **Más información → Ejecutar de todas formas**.
-   Es normal: Gestorín todavía no está firmado.
-3. Si lo bloquea «Smart App Control», usa el móvil o la demo mientras sale la versión firmada.
+   Es normal: Windows aún no la conoce porque es nueva. Hazlo solo si la has bajado desde la página de descargas.
+3. Si Windows no te deja de ninguna manera, usa el móvil o la demo mientras sale una versión que Windows reconozca.
 
 **En el móvil (Android)**
 
@@ -32,9 +32,9 @@ Descarga Gestorín desde la [página de descargas](https://github.com/BertMarti/
 
 | | Cómo es | Cuesta |
 |---|---|---|
-| **Gratis, en tu ordenador** (recomendado) | Un programa gratuito lee la carta en tu ordenador o en otro de casa. Nada sale de casa. | Nada |
-| **Sin IA** | Saca fechas, importes y referencias en tu propio móvil, sin instalar nada, pero no te explica la carta. | Nada |
-| **Claude** | El que mejor acierta. La carta se envía a Anthropic, que la lee y no la guarda para entrenar. | Unos céntimos por carta |
+| **Gratis, en tu ordenador** (recomendado) | Hay que instalar **una vez** un programa gratuito en un ordenador de casa (pide ayuda si hace falta). Desde entonces, tus cartas se leen en casa y no salen de ella. | Nada |
+| **Sin inteligencia artificial** | Para quien solo tiene el móvil: saca fechas, importes y referencias en el propio móvil, sin instalar nada, pero no te explica la carta. | Nada |
+| **Claude** | El que mejor acierta. La carta se envía por internet a Anthropic, la empresa de Claude, y se procesa fuera de la Unión Europea; según sus condiciones, no la usa para entrenar a su IA. Necesitas una cuenta de pago en su web. | Unos céntimos por carta |
 
 - Si no sabes cuál elegir, deja la que Gestorín te propone. En el móvil suele ser **Sin IA**.
 - Lo cambias cuando quieras en **Ajustes → Quién lee tus documentos**.
@@ -60,7 +60,7 @@ nunca te hará falta.
 
 ---
 
-[← Anterior: Guía](README.md) · [Índice](README.md) · [Siguiente: Añadir un papel →](02-anadir.md)
+[← Índice](README.md) · [Anterior: Guía](README.md) · [Siguiente: Añadir un papel →](02-anadir.md)
 
 ## Modelos y su función
 

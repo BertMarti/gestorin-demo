@@ -43,7 +43,7 @@ Gestorín se puede usar entero con el teclado. Los atajos están en
 ## Instalación
 
 **Windows dice que no conoce la aplicación.**
-Todavía no está firmada. Pulsa **Más información → Ejecutar de todas formas**. Si lo bloquea «Smart App
+Windows aún no la conoce porque es nueva. Si la has bajado desde la página de descargas, pulsa **Más información → Ejecutar de todas formas**. Si lo bloquea «Smart App
 Control», usa el móvil o la demo mientras sale la versión firmada.
 
 **Tenía Gestorín en Android y la versión nueva no se instala.**
@@ -58,7 +58,7 @@ Todavía no: en Windows y Android.
 
 ---
 
-[← Anterior: Privacidad y copias](08-privacidad-y-copias.md) · [Índice](README.md)
+[← Índice](README.md) · [Anterior: Privacidad y copias](08-privacidad-y-copias.md)
 
 ## Modelos y su función
 

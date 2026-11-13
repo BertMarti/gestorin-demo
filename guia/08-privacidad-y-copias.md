@@ -46,7 +46,7 @@ Si cambias la misma ficha en los dos aparatos, se queda el último cambio y **el
 
 ---
 
-[← Anterior: Buscar y preguntar](07-buscar-y-preguntar.md) · [Índice](README.md) · [Siguiente: Preguntas frecuentes →](09-preguntas.md)
+[← Índice](README.md) · [Anterior: Buscar y preguntar](07-buscar-y-preguntar.md) · [Siguiente: Preguntas frecuentes →](09-preguntas.md)
 
 ## Modelos y su función
 

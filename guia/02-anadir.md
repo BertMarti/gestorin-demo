@@ -51,7 +51,7 @@ avisa y te deja ver la versión anterior (está en [Privacidad y copias](08-priv
 
 ---
 
-[← Anterior: Empezar](01-empezar.md) · [Índice](README.md) · [Siguiente: Plazos y avisos →](03-plazos-y-avisos.md)
+[← Índice](README.md) · [Anterior: Empezar](01-empezar.md) · [Siguiente: Plazos y avisos →](03-plazos-y-avisos.md)
 
 ## Modelos y su función
 

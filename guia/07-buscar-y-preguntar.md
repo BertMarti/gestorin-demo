@@ -50,7 +50,7 @@ Hay atajos de una sola tecla (**?**, **/**, **E**, **H**, **Supr**). Si saltan s
 
 ---
 
-[← Anterior: Familia](06-familia.md) · [Índice](README.md) · [Siguiente: Privacidad y copias →](08-privacidad-y-copias.md)
+[← Índice](README.md) · [Anterior: Familia](06-familia.md) · [Siguiente: Privacidad y copias →](08-privacidad-y-copias.md)
 
 ## Modelos y su función
 

@@ -30,7 +30,7 @@ Solo pasa **la forma de leer las cartas**: nunca tus documentos, tu familia, tus
 
 ---
 
-[← Anterior: Trámites y multas](05-tramites.md) · [Índice](README.md) · [Siguiente: Buscar y preguntar →](07-buscar-y-preguntar.md)
+[← Índice](README.md) · [Anterior: Trámites y multas](05-tramites.md) · [Siguiente: Buscar y preguntar →](07-buscar-y-preguntar.md)
 
 ## Modelos y su función
 

@@ -37,7 +37,7 @@ Cuando se acerca la fecha, aparece el botón:
 
 ---
 
-[← Anterior: Plazos y avisos](03-plazos-y-avisos.md) · [Índice](README.md) · [Siguiente: Trámites y multas →](05-tramites.md)
+[← Índice](README.md) · [Anterior: Plazos y avisos](03-plazos-y-avisos.md) · [Siguiente: Trámites y multas →](05-tramites.md)
 
 ## Modelos y su función
 
